@@ -1,0 +1,6 @@
+.env
+*scratch*
+*.pyc
+__pycache__/
+.venv/
+./venv/
